@@ -1,6 +1,3 @@
 fn main() {
-
-    let mut a = 15;
-
-    println!("Hello, world!");
+    println!("Dies ist das erste Hallo!");
 }
